@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3js-raging-sea-shaders/static/css/main.f356e563.chunk.css",
+    "main.js": "/3js-raging-sea-shaders/static/js/main.7d7b9fe4.chunk.js",
+    "main.js.map": "/3js-raging-sea-shaders/static/js/main.7d7b9fe4.chunk.js.map",
+    "runtime-main.js": "/3js-raging-sea-shaders/static/js/runtime-main.04a8819d.js",
+    "runtime-main.js.map": "/3js-raging-sea-shaders/static/js/runtime-main.04a8819d.js.map",
+    "static/js/2.5ee8b18e.chunk.js": "/3js-raging-sea-shaders/static/js/2.5ee8b18e.chunk.js",
+    "static/js/2.5ee8b18e.chunk.js.map": "/3js-raging-sea-shaders/static/js/2.5ee8b18e.chunk.js.map",
+    "static/js/3.3c38167b.chunk.js": "/3js-raging-sea-shaders/static/js/3.3c38167b.chunk.js",
+    "static/js/3.3c38167b.chunk.js.map": "/3js-raging-sea-shaders/static/js/3.3c38167b.chunk.js.map",
+    "index.html": "/3js-raging-sea-shaders/index.html",
+    "static/css/main.f356e563.chunk.css.map": "/3js-raging-sea-shaders/static/css/main.f356e563.chunk.css.map",
+    "static/js/2.5ee8b18e.chunk.js.LICENSE.txt": "/3js-raging-sea-shaders/static/js/2.5ee8b18e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04a8819d.js",
+    "static/js/2.5ee8b18e.chunk.js",
+    "static/css/main.f356e563.chunk.css",
+    "static/js/main.7d7b9fe4.chunk.js"
+  ]
+}
