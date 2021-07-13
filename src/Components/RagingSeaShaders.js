@@ -11,7 +11,7 @@ const RagingSeaShaders = () => {
 
     const canvas = document.querySelector('.webgl');
 
-    const gui = new dat.GUI({ closed: true});
+    const gui = new dat.GUI();
     const debugObject = {};
 
     const size = {
